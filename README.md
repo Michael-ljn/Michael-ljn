@@ -1,4 +1,3 @@
-# Michael-ljn
 ---
 ## 💡 Expertise
 
