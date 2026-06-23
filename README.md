@@ -1,7 +1,7 @@
 ## 💡 Expertise
 
-- **Chemical & Process Engineering** — Design and optimisation of industrial processes
-- **Energy System Design & Simulations** — Modeling complex energy networks
+- **Chemical & Process Engineering**
+- **Energy System Design & Simulations**
 - **Process environmental Sustainability Assessments**
   - Life Cycle Assessment (LCA)
   - Absolute Environmental Sustainability Assessment (AESA)
@@ -12,6 +12,6 @@
 ---
 ## 💻 Programming Languages
 
-- **Python** — Primary language for data analysis and modeling
-- **Julia** — High-performance technical computing
-- **MATLAB** — Numerical computing and simulations
+- **Python**
+- **Julia**
+- **MATLAB**
