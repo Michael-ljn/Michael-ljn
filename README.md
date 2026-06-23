@@ -1,23 +1,31 @@
-## Areas of Expertise
+## Research topics
+- Powerfuels production (hydrogen, e-methane, e-methanol etc..)
+
+- Decarbonised energy systems
+  - Electrification of energy systems
+  - Integration of powerfuels
+    
+- Computational life cycle assessment
+  - Life cycle optimisation
+  - Software development
+    
+- Chemical recycling pathways for plastics
+  - Nylon 6
+
+- Planetary boundaries
+  - Boundaries for Earth system processes
+  - Biophysical and humand mediated Earth system process interactions
+  - Characterisation factors for life cycle assessment
+
+## Expertise
 - Chemical/Process engineering
-- Energy systems design, simulations
-- Life Cycle Assessment (LCA) & engineering (LCE)
-- Absolute environmental sustainability assessment (AESA)
-- Techno-economic analysis
+- Energy system design & simulations
+- Life Cycle & Absolute environmental sustainability assessments (LCA & AESA)
+- Techno-economic analysis (TEA)
 - Geospatial analysis
+- High Performance Computing Clusters (HPC)
 
 ## Programming languages
 - Python
 - Julia
 - MATLAB
-
-## Scientific Background
-- Ph.D. in Mechanical Engineering
-  - Chemical Engineering field of research: electrochemical energy storage and conversion
-  - Environmental Engineering field of research: life cycle assessment and industrial ecology
-
-- M.Sc. in Sustainable Energy systems
-  - Specialisation in system integration and optimisation
-     
-- B.Sc. in Physics and Chemistry
-  - Physics major 
