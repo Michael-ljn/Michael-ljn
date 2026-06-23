@@ -1,4 +1,3 @@
----
 ## 💡 Expertise
 
 - **Chemical & Process Engineering** — Design and optimisation of industrial processes
