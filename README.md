@@ -13,8 +13,8 @@
 
 ## Scientific Background
 - Ph.D. in Mechanical Engineering
-  - Electrochemical energy storage and conversion
-  - Life cycle assessment 
+  - Chemical Engineering field of research: electrochemical energy storage and conversion
+  - Environmental Engineering field of research: life cycle assessment and industrial ecology
 
 - M.Sc. in Sustainable Energy systems
   - Specialisation in system integration and optimisation
